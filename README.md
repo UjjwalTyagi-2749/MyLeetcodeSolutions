@@ -69,4 +69,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
