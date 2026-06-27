@@ -60,6 +60,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -85,8 +86,25 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
