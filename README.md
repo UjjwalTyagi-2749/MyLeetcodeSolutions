@@ -79,6 +79,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -95,6 +97,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 ## Greedy
@@ -111,4 +114,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
