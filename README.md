@@ -63,6 +63,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -87,11 +88,13 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -102,6 +105,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -114,11 +118,13 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 ## Design
 |  |
@@ -135,4 +141,12 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
