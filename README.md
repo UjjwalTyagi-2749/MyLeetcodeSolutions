@@ -78,6 +78,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
