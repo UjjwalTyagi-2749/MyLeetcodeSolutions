@@ -171,6 +171,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bucket Sort
 |  |
@@ -188,4 +189,9 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
