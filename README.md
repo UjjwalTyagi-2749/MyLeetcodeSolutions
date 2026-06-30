@@ -76,6 +76,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -133,6 +134,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
@@ -158,6 +160,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
 ## Bucket Sort
