@@ -196,4 +196,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
