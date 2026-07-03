@@ -107,6 +107,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
