@@ -79,6 +79,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -143,6 +144,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -168,6 +170,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
