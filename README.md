@@ -77,6 +77,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0094-binary-tree-inorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
@@ -162,6 +163,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -211,4 +213,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
