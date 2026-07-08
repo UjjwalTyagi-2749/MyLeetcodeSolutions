@@ -62,6 +62,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -91,6 +92,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
