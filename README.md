@@ -61,6 +61,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,6 +89,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
@@ -125,6 +127,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
