@@ -74,6 +74,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0875-koko-eating-bananas](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
