@@ -85,6 +85,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0145-binary-tree-postorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
@@ -100,6 +101,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
@@ -153,6 +155,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0001-two-sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
+| [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 ## Greedy
@@ -213,6 +216,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 ## String
