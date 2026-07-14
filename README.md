@@ -97,6 +97,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,4 +244,12 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
