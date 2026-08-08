@@ -260,4 +260,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
