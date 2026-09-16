@@ -99,6 +99,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0001-two-sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
@@ -238,6 +239,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
@@ -285,4 +287,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
