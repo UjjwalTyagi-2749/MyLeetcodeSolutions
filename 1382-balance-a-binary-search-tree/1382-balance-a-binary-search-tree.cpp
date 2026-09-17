@@ -21,7 +21,7 @@ public:
         inorder(root->right,ans);
     }
 
-    TreeNode* inordertobst(int st,int end,vector<int>ans){
+    TreeNode* inordertobst(int st,int end,vector<int>&ans){
         if(st>end){
             return NULL;
         }
