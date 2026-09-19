@@ -124,6 +124,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0189-rotate-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
