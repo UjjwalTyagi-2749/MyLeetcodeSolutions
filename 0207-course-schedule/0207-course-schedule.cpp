@@ -25,8 +25,10 @@ public:
         unordered_map<int,bool>dfsv;
         vector<vector<int>>adj(numCourses);
 
-        for(auto p : prerequisites){
-            adj[p[1]].push_back(p[0]);
+        for(auto x : prerequisites){
+            int u=x[0];
+            int v=x[1];
+            adj[u].push_back(v);
         }
 
         for(int i=0;i<numCourses;i++){
