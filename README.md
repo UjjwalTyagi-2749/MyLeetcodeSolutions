@@ -139,6 +139,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -148,6 +149,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -200,6 +202,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
