@@ -42,6 +42,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0210-course-schedule-ii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0207-course-schedule](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -350,4 +353,8 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
