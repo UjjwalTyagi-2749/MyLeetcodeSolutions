@@ -146,6 +146,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -155,6 +156,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
