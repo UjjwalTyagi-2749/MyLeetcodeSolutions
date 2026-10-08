@@ -159,6 +159,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -217,6 +218,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -274,6 +276,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bucket Sort
@@ -300,6 +303,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
