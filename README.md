@@ -143,6 +143,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
@@ -314,6 +315,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
