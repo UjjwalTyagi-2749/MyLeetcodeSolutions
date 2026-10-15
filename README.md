@@ -313,6 +313,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0053-maximum-subarray](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -320,6 +321,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0009-palindrome-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -382,4 +384,12 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
