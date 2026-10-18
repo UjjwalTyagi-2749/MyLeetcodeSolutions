@@ -50,6 +50,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0199-binary-tree-right-side-view](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -138,6 +139,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0209-minimum-size-subarray-sum](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -313,6 +315,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -394,4 +397,12 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
