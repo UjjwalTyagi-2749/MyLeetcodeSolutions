@@ -273,6 +273,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0027-remove-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -304,6 +305,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
