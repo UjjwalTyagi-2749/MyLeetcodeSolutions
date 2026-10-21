@@ -14,7 +14,7 @@ public:
             right++;
 
 
-            if(zero>1){
+            while(zero>1){
                 if(nums[left]==0){
                     zero--;
                     
