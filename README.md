@@ -104,6 +104,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -311,6 +312,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -321,6 +323,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -360,6 +363,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
