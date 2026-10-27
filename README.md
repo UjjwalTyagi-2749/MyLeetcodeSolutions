@@ -174,6 +174,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,6 +321,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
 | ------- |
