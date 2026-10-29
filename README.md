@@ -161,6 +161,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bracket Sequences
 |  |
 | ------- |
