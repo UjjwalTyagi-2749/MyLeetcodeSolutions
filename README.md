@@ -145,6 +145,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0355-design-twitter) |
+| [0506-relative-ranks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1046-last-stone-weight) |
@@ -251,6 +253,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0268-missing-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0881-boats-to-save-people) |
