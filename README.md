@@ -154,6 +154,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0875-koko-eating-bananas](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -206,6 +207,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0169-majority-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -218,6 +220,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0506-relative-ranks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
@@ -261,6 +264,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -311,6 +315,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -354,6 +359,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0189-rotate-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -438,4 +444,12 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0881-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
