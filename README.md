@@ -92,6 +92,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0268-missing-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -307,6 +308,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0345-reverse-vowels-of-a-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -363,6 +365,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0189-rotate-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
