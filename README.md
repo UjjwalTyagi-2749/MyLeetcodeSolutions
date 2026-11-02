@@ -42,6 +42,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0543-diameter-of-binary-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -56,6 +57,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -157,6 +159,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0506-relative-ranks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0846-hand-of-straights) |
@@ -390,6 +393,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
@@ -440,6 +444,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
