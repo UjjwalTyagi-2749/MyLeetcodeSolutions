@@ -61,6 +61,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -170,6 +171,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0904-fruit-into-baskets](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1046-last-stone-weight) |
@@ -397,6 +399,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
