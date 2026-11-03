@@ -56,6 +56,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0207-course-schedule](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
@@ -160,6 +161,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0485-max-consecutive-ones](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
@@ -369,6 +371,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0322-coin-change](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -397,6 +400,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0054-spiral-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
