@@ -46,6 +46,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -65,6 +66,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -179,6 +181,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -408,6 +411,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -460,6 +464,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0130-surrounded-regions](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
