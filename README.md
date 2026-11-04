@@ -47,6 +47,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -67,6 +68,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -451,6 +453,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0210-course-schedule-ii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -468,6 +471,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0200-number-of-islands](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
@@ -502,8 +506,10 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
