@@ -43,6 +43,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0543-diameter-of-binary-tree](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
@@ -64,6 +65,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0542-01-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
@@ -453,6 +455,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0207-course-schedule](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
@@ -471,6 +474,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | ------- |
 | [0130-surrounded-regions](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
