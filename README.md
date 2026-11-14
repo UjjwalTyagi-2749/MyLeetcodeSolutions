@@ -77,6 +77,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0886-possible-bipartition](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -193,6 +194,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -424,6 +426,7 @@ Tracking my DSA journey through LeetCode — solutions in C++, covering arrays, 
 | [0733-flood-fill](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/UjjwalTyagi-2749/MyLeetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
