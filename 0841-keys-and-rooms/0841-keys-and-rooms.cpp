@@ -1,23 +1,23 @@
 class Solution {
 public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
-        unordered_map<int,bool>visited;
         int n=rooms.size();
-
+        vector<int>visited(n,false);
         queue<int>q;
+        
         q.push(0);
         visited[0]=true;
 
         while(!q.empty()){
             int top=q.front();
-                q.pop();
+            q.pop();
 
-                for(int i:rooms[top]){
-                    if(!visited[i]){
-                        q.push(i);
-                        visited[i]=true;
-                    }
+            for(int i:rooms[top]){
+                if(!visited[i]){
+                    q.push(i);
+                    visited[i]=true;
                 }
+            }
         }
 
         for(int i=0;i<n;i++){
