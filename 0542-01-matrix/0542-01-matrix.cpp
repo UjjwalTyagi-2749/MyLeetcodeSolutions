@@ -1,45 +1,45 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int row=mat.size();
-        int col=mat[0].size();
-        vector<vector<int>>dist(row,vector<int>(col,-1));
+        int r= mat.size();
+        int c=mat[0].size();
         queue<pair<int,int>>q;
+        vector<vector<int>>dis(r,vector<int>(c,-1));
 
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
                 if(mat[i][j]==0){
-                    dist[i][j]=0;
+                    dis[i][j]=0;
                     q.push({i,j});
                 }
             }
         }
 
+
         while(!q.empty()){
             int i=q.front().first;
             int j=q.front().second;
+
             q.pop();
 
-            if(i-1>=0 && dist[i-1][j]==-1){
-                q.push({i-1,j});
-                dist[i-1][j]=dist[i][j]+1;
-            }
 
-            if (i + 1 < row && dist[i+1][j] == -1) {
-                dist[i+1][j] = dist[i][j] + 1;
-                q.push({i+1, j});
+            if(i-1>=0 && dis[i-1][j]==-1){
+                q.push({i-1,j});
+                dis[i-1][j]=dis[i][j]+1;
             }
-           
-            if (j - 1 >= 0 && dist[i][j-1] == -1) {
-                dist[i][j-1] = dist[i][j] + 1;
-                q.push({i, j-1});
+            if(i+1<r && dis[i+1][j]==-1){
+                q.push({i+1,j});
+                dis[i+1][j]=dis[i][j]+1;
             }
-            
-            if (j + 1 < col && dist[i][j+1] == -1) {
-                dist[i][j+1] = dist[i][j] + 1;
-                q.push({i, j+1});
+            if(j-1>=0 && dis[i][j-1]==-1){
+                q.push({i,j-1});
+                dis[i][j-1]=dis[i][j]+1;
+            }
+            if(j+1<c && dis[i][j+1]==-1){
+                q.push({i,j+1});
+                dis[i][j+1]=dis[i][j]+1;
             }
         }
-        return dist;
+        return dis;
     }
 };
